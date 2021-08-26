@@ -20,7 +20,7 @@ class Position(object):
     A Position represents a location in a two-dimensional room, where
     coordinates are given by floats (x, y).
     """
-    #dfdfdfdf
+    
     def __init__(self, x, y):
         """
         Initializes a position with coordinates (x, y).
